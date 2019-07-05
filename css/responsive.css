@@ -1,0 +1,283 @@
+@media screen and (max-width: 991px){
+	.btn-custom{
+    font-size: 12px;
+}
+.banner-content h1{
+	font-size: 36px;
+}
+.banner-section .row{
+	min-height: 400px;
+}
+.identity{
+    padding: 5px;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-size: 60px;
+}
+.identity h2{
+    font-size: 16px;
+}
+.identity p{
+    font-size: 13px;
+}
+.simple-content{
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+.simple-content h2{
+    padding-bottom: 10px;
+}
+.iphone img:first-child{
+	width: 100% !important;
+}
+.transition-section h3{
+    padding-bottom: 20px;
+}
+.bitcoin-section{
+	min-height: 200px;
+}
+.bitcoin img{
+	padding: 0px 10px;
+	max-width: 85%;
+}
+.left{
+	left: -50px;
+}
+.right{
+	right: -50px;
+}
+/*contact-us-section*/
+.contact-us-section .contactimg{
+    text-align: center;
+}
+.contact-us-section .newsletter{
+    text-align: center;
+}
+
+.contactimg img{
+    display: block;
+    margin: 0 auto;
+    max-width: 25%;
+}
+.contactimg .footer-social{
+    justify-content: center;
+}
+.contact h6{
+    margin-top: 25px;
+}
+.contact h6:before{
+    position: absolute;
+    content: "";
+    height: 3px;
+    width: 40px;
+    left:0;
+    bottom: 0;
+    background-color: #fa8e2b;
+}
+.contact ul li {
+    padding-left: 0;
+}
+.newsletter h6:before{
+    position: absolute;
+    content: "";
+    height: 3px;
+    width: 40px;
+    left:50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    background-color: #fa8e2b;
+}
+}
+@media screen and (max-width: 767px){
+.top-biticon-info p{
+	font-size: 11px;
+    padding-top: 5px;
+}
+.top-menu li a{
+    font-size: 11px;
+}
+.banner-content h1{
+	font-size: 30px;
+}
+.banner-content ul li{
+	padding: 0 15px;
+}
+.banner-content ul li strong{
+    font-size: 15px;
+
+}
+.banner-content ul li span{
+    font-size: 14px;
+}
+.banner-section .row{
+	min-height: 350px;
+}
+.service{
+    text-align: center;
+    margin-top: 30px;
+}
+.simple-content ul li h6{
+    padding-bottom: 20px;
+}
+.transition-section h2{
+    font-size: 22px
+}
+.transition-section h3{
+    font-size: 12px;
+    padding-bottom: 10px;
+}
+.transition-section{
+	padding: 20px 0;
+}
+.bitcoin-section .bitcoin .icons strong{
+    font-size: 13px;
+}
+/*consultation-section*/
+.form-group input{
+    margin-top: 15px;
+}
+/*our-blog-section*/
+.our-blog-section{
+    text-align: center;
+}
+/*contact-us-section*/
+.contact-us-section{
+    text-align: center;
+}
+.contactimg img{
+    display: block;
+    margin: 0 auto;
+    max-width: 35%;
+}
+.contactimg .footer-social{
+    justify-content: center;
+}
+.contact h6{
+    margin-top: 25px;
+}
+.contact h6:before{
+    position: absolute;
+    content: "";
+    height: 3px;
+    width: 40px;
+    left:50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    background-color: #fa8e2b;
+}
+.contact ul li {
+    padding-left: 60px;
+}
+ .quicklinks{
+    padding-left:0;
+    text-align: center;
+ }
+ .contact-us-section{
+    padding: 25px 0;
+}
+}
+
+@media screen and (max-width: 575px){
+.top-biticon-info p{
+	font-size: 11px;
+    padding-top: 5px;
+}
+.top-menu li a{
+    font-size: 11px;
+}
+.btn-custom{
+    font-size: 12px;
+}
+.navbar-nav .nav-link:hover{
+    background: #FF9B1A !important;
+    color: #fff !important;
+}
+.banner-content h1{
+	font-size: 24px;
+}
+.banner-content ul li{
+	padding: 0 10px;
+}
+.banner-content ul li strong{
+    font-size: 14px;
+
+}
+.banner-content ul li span{
+    font-size: 13px;
+}
+.banner-section .row{
+	min-height: 300px;
+}
+.identity{
+    padding: 3px;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-size: 50px;
+}
+.identity h2{
+    font-size: 15px;
+}
+.identity p{
+    font-size: 14px;
+}
+.service-section a {
+    margin: 30px 10px 0px;
+
+}
+.simple-content span{
+    margin-top: 20px;
+}
+.simple-content ul li h5{
+   margin-top: 15px;
+}
+.transition-section h2{
+    font-size: 20px
+}
+.transition-section h3{
+    font-size: 11px;
+    padding-bottom: 20px;
+}
+.transition-section{
+	padding: 25px 0 0;
+}
+.top-left {
+    left: -80px;
+}
+.bottom-left {
+    left: -80px;
+}
+.top-right {
+    right: -80px;
+}
+.bottom-right {
+    right: -80px;
+}
+.bitcoin img{
+    padding: 0px 10px;
+    max-width: 100%;
+}
+.bitcoin-section .bitcoin .icons strong{
+    font-size: 12px;
+}
+
+/*team-experts-section*/
+.team-experts{
+    margin-top: 0px;
+}
+.team-experts img{
+    max-width: 50%;
+     margin: 25px auto
+}
+.team-experts h4{
+    font-size: 17px;
+     margin-top: 5px;
+}
+.team-experts h5{
+    font-size: 13px;
+}
+/*our-blog-section*/
+.our-blog-section{
+    text-align: center;
+}
+
+}

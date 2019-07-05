@@ -1,2 +1,2 @@
 # paxler
-Responsive website
+Bootstrap Responsive website
